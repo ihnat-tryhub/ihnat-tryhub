@@ -2,6 +2,8 @@
 
 **Backend-oriented Full-Stack Developer based in Germany**  
 Focused on building full-stack web applications with React, TypeScript, Node.js/NestJS, REST APIs and databases.
+
+
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232a?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-20232a?style=flat&logo=node.js)
