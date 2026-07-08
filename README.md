@@ -2,6 +2,11 @@
 
 **Backend-oriented Full-Stack Developer based in Germany**  
 Focused on building full-stack web applications with React, TypeScript, Node.js/NestJS, REST APIs and databases.
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232a?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-20232a?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-20232a?style=flat&logo=nestjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232a?style=flat&logo=postgresql)
 
 [Portfolio](https://portfolio-ihnat-tryhub.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ihnat-tryhub)
 
